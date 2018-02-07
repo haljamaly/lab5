@@ -1,6 +1,11 @@
 {
 	"friends": [
 		{
+			"name": "BenDelaCreme",
+			"description": "The future winner of Rupaul's Drag Race Allstars 3",
+			"imageURL" : "https://pbs.twimg.com/profile_images/925852378565193728/5uj8bW35_400x400.jpg"
+		},
+		{
 			"name": "Doug Engelbart",
 			"description": "Has awesome pet mice",
 			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/972px-Douglas_Engelbart_in_2008.jpg"			
